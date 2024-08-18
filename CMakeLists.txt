@@ -10,6 +10,7 @@ find_package(catkin REQUIRED COMPONENTS
 
 add_message_files(DIRECTORY msg
   FILES
+  BoxHeightInformation.msg
   ## Add the file name for A1 part 2 here ##
 
 )
